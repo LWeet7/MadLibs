@@ -3,7 +3,8 @@ public class MadLibs {
 
 	public static void main(String[] args) {
 		//0. Give variable names for each of the arraylists below and create Madlibs stories.
-		
+		//test
+		ArrayList <String> words = new ArrayList <String>;
 		//1. Read a nouns.txt file and store its list of nouns into an arraylist.
 		
 		//2. Read a verbs.txt file and store its list of verbs into an arraylist.
